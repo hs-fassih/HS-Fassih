@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HS-Fassih
+- 👋 Hi, I’m @hs-fassih
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning C++
 - 📫 Feel free to contact
