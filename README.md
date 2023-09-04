@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hs-fassih
-- 👀 I’m interested in cybersecurity and ehtical hacking
+- 👀 I’m interested in cybersecurity and programming
 - 🌱 I’m currently learning C++
 - 📫 Feel free to contact  >> hsfassih.28@gmail.com
 
